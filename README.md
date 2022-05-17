@@ -83,10 +83,11 @@
 ![image](https://user-images.githubusercontent.com/104863870/168775309-dd9efe96-5c58-4abf-8066-503dbec9f6c1.png)
 ## SECCIÓN 2–2 Carga eléctrica
 ### 2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
+![image](https://user-images.githubusercontent.com/104863870/168791133-aaaadb18-0837-46b6-86a0-85950d9d193f.png)
 ### 4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 ![image](https://user-images.githubusercontent.com/104863870/168783857-da161d1a-7900-4bb1-ad6b-64dce669e974.png)
 ### 6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje
-a través del resistor?
+### a través del resistor?
 ![image](https://user-images.githubusercontent.com/104863870/168784030-d27d7a8c-79a1-4932-b7be-2f9454bd4938.png)
 ### 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 ![image](https://user-images.githubusercontent.com/104863870/168784136-09982eaf-c1b2-4527-b8b4-4668c064637a.png)
@@ -103,7 +104,7 @@ a través del resistor?
 ### R= inducción electromagnética
 ### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500Ω ,
 ### ¿cuál es la corriente en la carga?
-![image](https://user-images.githubusercontent.com/104863870/168788085-ffb617d6-6b93-4db5-a432-6cca7175b145.png)
+![image](https://user-images.githubusercontent.com/104863870/168791100-05f1d453-a712-49ec-b142-eda0f8dc6faf.png)
 ## SECCIÓN 2–5 Resistores
 ### 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
 ### problema 21.
