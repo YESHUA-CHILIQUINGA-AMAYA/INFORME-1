@@ -99,43 +99,42 @@ a través del resistor?
 ### 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 ![image](https://user-images.githubusercontent.com/104863870/168784607-71d5e458-9665-4b95-96d0-1dffe59be6cd.png)
 ## SECCIÓN 2–4 Fuentes de voltaje y de corriente
-## 18. ¿En qué principio se basan los generadores eléctricos?
-R= inducción electromagnética
-##20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500Ω ,
-¿cuál es la corriente en la carga?
+### 18. ¿En qué principio se basan los generadores eléctricos?
+### R= inducción electromagnética
+### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500Ω ,
+### ¿cuál es la corriente en la carga?
 ![image](https://user-images.githubusercontent.com/104863870/168788085-ffb617d6-6b93-4db5-a432-6cca7175b145.png)
 ## SECCIÓN 2–5 Resistores
 ### 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del
-problema 21.
+### problema 21.
 ![image](https://user-images.githubusercontent.com/104863870/168784879-ec8592ad-d53e-4288-8427-6dca1b2026ba.png)
 ### 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
-(a) café, negro, negro, oro
-(b) verde, café, verde, plata
-(c) azul, gris, negro, oro
+### (a) café, negro, negro, oro
+### (b) verde, café, verde, plata
+### (c) azul, gris, negro, oro
 ### 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 ![image](https://user-images.githubusercontent.com/104863870/168781382-51197981-4349-47e2-b9a1-1c8ca5d224a9.png)
 ### 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la
-resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
+### resistencia total es de 1000 , ¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 ### 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
-(a) 4R7J (b) 5602M (c) 1501F
+### (a) 4R7J (b) 5602M (c) 1501F
 ![image](https://user-images.githubusercontent.com/104863870/168781454-f21b6e93-add7-4ebc-93bf-9076eeab8c21.png)
-##SECCIÓN 2–6 El circuito eléctrico
+## SECCIÓN 2–6 El circuito eléctrico
 ### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusi-
-ble conectado para proteger el circuito contra corriente excesiva.
+### ble conectado para proteger el circuito contra corriente excesiva.
 ![image](https://user-images.githubusercontent.com/104863870/168781554-cb307300-ed14-40f9-951b-855bdbfb0021.png)
-![image](https://user-images.githubusercontent.com/104863870/168781620-c6e24e9d-6c8e-42a3-8d30-5205cb6cd23d.png)
-![image](https://user-images.githubusercontent.com/104863870/168781649-44f7f84f-9c24-4bee-8607-5a2f02475807.png)
-![image](https://user-images.githubusercontent.com/104863870/168781667-d22eb3cf-242f-4224-8461-b386fc8973eb.png)
-![image](https://user-images.githubusercontent.com/104863870/168781688-2f17f7d9-2202-448c-b32d-697d721d2aba.png)
-### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los inte-
-rruptores?
+![image](https://user-images.githubusercontent.com/104863870/168789970-76eeff6a-9e63-4e34-b338-0d42191e84e2.png)
+![image](https://user-images.githubusercontent.com/104863870/168789927-67392d1d-dcaa-40d6-80d3-6216a98f07ec.png)
+![image](https://user-images.githubusercontent.com/104863870/168789886-ba182c02-427e-4f4f-a50d-c33d5fdb969a.png)
+![image](https://user-images.githubusercontent.com/104863870/168789834-d97baca2-71fd-4e2c-bfd3-3b6121cd7d21.png)
+### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 ![image](https://user-images.githubusercontent.com/104863870/168781712-e7fd045f-c278-4a4d-aa97-232da12786c1.png)
 ![image](https://user-images.githubusercontent.com/104863870/168781886-77177bfd-ef67-4197-882e-a067a34e4e0f.png)
 ### 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que
-aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
-fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
-de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
-sección puede ser conectada al amplificador.
+### aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el
+### fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador
+### de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una
+### sección puede ser conectada al amplificador.
 ![image](https://user-images.githubusercontent.com/104863870/168781958-79d1eb30-e666-4ea2-8899-cf95aeb4758a.png)
 ![image](https://user-images.githubusercontent.com/104863870/168782002-36f3cec6-01af-4bf8-b5f1-de481482c46a.png)
 ## SECCIÓN 2–7 Mediciones de circuito básicas
@@ -143,11 +142,11 @@ sección puede ser conectada al amplificador.
 ![image](https://user-images.githubusercontent.com/104863870/168782074-49be425f-8c25-4cd3-accb-8068e3e9038e.png)
 ![image](https://user-images.githubusercontent.com/104863870/168782115-93d2f5d9-9021-43b6-8d16-1e7d7d5ab3f1.png)
 ### 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la
-fuente de voltaje sin importar la posición del interruptor.
+### fuente de voltaje sin importar la posición del interruptor.
 ![image](https://user-images.githubusercontent.com/104863870/168782141-b1c3f023-fc15-49e3-861f-bba2107b627c.png)
 ![image](https://user-images.githubusercontent.com/104863870/168782209-953143ee-5ec8-4216-a9ba-ff833ebb5705.png)
 ### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor
-presente en la figura 2-70.
+### presente en la figura 2-70.
 ![image](https://user-images.githubusercontent.com/104863870/168782351-052a1e2f-10d9-477a-996c-20fb8d237e00.png)
 ### 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 ![image](https://user-images.githubusercontent.com/104863870/168782742-d3f5d0f4-0f33-4096-87f4-78175aca95c5.png)
