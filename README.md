@@ -150,7 +150,7 @@
 ### 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 ![image](https://user-images.githubusercontent.com/104863870/168782964-b49b5a03-197e-4f76-8fa2-12d72967e2a4.png)
 ## 4. VIDEO.
-https://youtu.be/ylGw7jzIy5U
+https://youtu.be/DDkgeS6QbDs
 ## 5. CONCLUSIONES.
    Gracias a los conocimientos vistos en este informe hemos visto todo el comportamiento de la electricidad y su composición a partír del átomo y sus partes, como también las aplicaciones en la electrónica pasando desde resistores hasta interruptores, ayudando a la comprensión de cómo funcionana los circuitos eléctricos, sus diferencias entre circuito serie y circuito paralelo; con esto repasamos los Cantidades, Unidades y Cargas Eléctricas previstos en los objetivos y logramos estudiar todo los conceptos, principios, normas, reglas y cuidados de nuestra salud al manejar componentes eléctricos.
 ## 6. BIBLIOGRAFÍA.
